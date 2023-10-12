@@ -18,6 +18,9 @@ module.exports = {
         "xxs":"8px",
         "xms":"10px",
       },
+      height:{
+        "screenx":"120vh"
+      }
     },
   },
   plugins: [],
